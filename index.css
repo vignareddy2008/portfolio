@@ -1,0 +1,21 @@
+body{ background-color:#caecf0 ;
+padding:  20px; }
+h1{text-align: center;font-size:40px; transition: all 0.5 ease;}
+h1:hover{transform: scale(1.5);}
+p{font-size:25px;text-align: center;}
+nav{text-align: center;}
+nav a{border:1px solid
+    ;padding:5px;border-radius: 10px;text-decoration: none;}
+section{background-color: white; width: 800px;margin:30px auto;border-radius: 10px;padding:10px;box-shadow:0 5px 13px black ;}
+hr{ margin:30px auto;width:800px;border: 1px  solid black;}
+figure{text-align: center;}
+figure img{border-radius: 50%;border:3px solid rgb(22, 64, 77)}
+figcaption{
+    font-size: 25px;
+}
+section ul{ 
+    text-align: center;
+}
+section h2{ border-bottom: 2px solid blue; padding-bottom: 20px;}
+article{ background-color: #caecf0; padding: 10px; margin: 20px;border-left: 4px solid black;border-radius: 10px;}
+summary{font-size: 20px;}
